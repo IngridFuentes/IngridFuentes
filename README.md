@@ -24,7 +24,7 @@ A Marathon tracker application: A fullstack web application designed to offer us
 I hold a degree in Computer Science, a Coding bootcamp certificate from Flatiron School, and an undergrad in Business Administration. My academic journey has equipped me with a solid understanding of software engineering principles, and a business perspective. I am excited to apply this knowledge in real-world projects.
 
 ## 💬 Let's Connect
-I'm always open to connecting with fellow developers, tech enthusiasts, and industry professionals. Feel free to reach out to me via https://www.linkedin.com/in/ingrid-fuentesm/
+I'm always open to connecting with fellow developers, tech enthusiasts, and industry professionals. Feel free to reach out to me via [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ingrid-fuentesm/)
 
 ## 🤝 Open to Collaboration
 I'm actively seeking opportunities to collaborate on interesting projects. Whether you have a project idea, looking for a teammate, or want to discuss technology, feel free to get in touch!
