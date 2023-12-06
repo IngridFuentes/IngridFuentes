@@ -26,9 +26,6 @@ I hold a degree in Computer Science, a Coding bootcamp certificate from Flatiron
 ## 💬 Let's Connect
 I'm always open to connecting with fellow developers, tech enthusiasts, and industry professionals. Feel free to reach out to me via https://www.linkedin.com/in/ingrid-fuentesm/
 
-## 📫 How to Reach Me
-- LinkedIn: https://www.linkedin.com/in/ingrid-fuentesm/
-
 ## 🤝 Open to Collaboration
 I'm actively seeking opportunities to collaborate on interesting projects. Whether you have a project idea, looking for a teammate, or want to discuss technology, feel free to get in touch!
 
