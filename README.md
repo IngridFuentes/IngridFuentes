@@ -17,8 +17,8 @@ A Marathon tracker application: A fullstack web application designed to offer us
 
 ## 🌱 I’m currently learning
 
-- Advanced React patterns
-- MongoDB
+- Cybersecurity
+- AI implementations
 
 ## 📚 Education
 I hold a degree in Computer Science, a Coding bootcamp certificate from Flatiron School, and an undergrad in Business Administration. My academic journey has equipped me with a solid understanding of software engineering principles, and a business perspective. I am excited to apply this knowledge in real-world projects.
