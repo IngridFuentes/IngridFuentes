@@ -18,6 +18,8 @@ A Marathon tracker application: A fullstack web application designed to offer us
 ## 🌱 I’m currently learning
 
 - Cybersecurity
+- Cloud Security
+- AI Security
 - AI implementations
 
 ## 📚 Education
