@@ -1,6 +1,6 @@
 # Hi there, I'm Ingrid Fuentes 👋
 
-I'm an enthusiastic software engineer passionate about creating robust and innovative solutions. My current focus revolves around JavaScript, React, Node.js, and Ruby on Rails. With a strong foundation in these technologies, I'm eager to contribute to exciting projects and continue expanding my skills.
+I'm an enthusiastic software engineer passionate about creating robust and innovative solutions. With a strong foundation in frontend and backend technologies, I'm eager to contribute to exciting projects and continue expanding my skills.
 
 ## 🔧 Technologies & Tools
 - Languages: JavaScript, Ruby
