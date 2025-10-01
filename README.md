@@ -1,4 +1,4 @@
-# Hi there, I'm Ingrid Fuentes 👋
+# Hi there, I'm Ingrid 👋
 
 I'm an enthusiastic software engineer passionate about creating robust and innovative solutions. With a strong foundation in frontend and backend technologies, I'm eager to contribute to exciting projects and continue expanding my skills.
 
