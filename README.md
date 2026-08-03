@@ -7,7 +7,7 @@ I'm an enthusiastic software engineer passionate about creating robust and innov
 - Frontend: React, Next.js, Vite, HTML, CSS
 - Backend: Node.js, Express
 - Database & Cloud: PostgreSQL, Supabase, Firebase, Google Cloud Run, Firestore
-- Tools & Practices: Git, RESTful APIs, Vercel, Cloud Armor, reCAPTCHA Enterprise
+- Tools & Practices: Git, RESTful APIs, Vercel, Docker, Cloud Armor, reCAPTCHA Enterprise
 - Security: Burp Suite, Kali Linux, penetration testing
 
 ## 🔭 I’m currently building 
