@@ -3,14 +3,12 @@
 I'm an enthusiastic software engineer passionate about creating robust and innovative solutions. With a strong foundation in frontend and backend technologies, I'm eager to contribute to exciting projects and continue expanding my skills.
 
 ## 🔧 Technologies & Tools
-- Languages: JavaScript, Ruby
-- Frontend: React
-- Backend: Node.js, Ruby on Rails
-- Database: PostgreSQL, SQLite
-- Version Control: Git
-- Other: HTML, CSS, RESTful APIs, Figma
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridFuentes&theme=ambient_gradient)
+- Languages: JavaScript, TypeScript, Python
+- Frontend: React, Next.js, Vite, HTML, CSS
+- Backend: Node.js, Express
+- Database & Cloud: PostgreSQL, Supabase, Firebase, Google Cloud Run, Firestore
+- Tools & Practices: Git, RESTful APIs, Vercel, Cloud Armor, reCAPTCHA Enterprise
+- Security: Burp Suite, Kali Linux, penetration testing
 
 ## 🔭 I’m currently building 
 A Marathon tracker application: A fullstack web application designed to offer users an enjoyable method for recording and visualizing their running activities on an interactive map.
